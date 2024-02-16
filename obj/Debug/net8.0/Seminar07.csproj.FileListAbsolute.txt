@@ -12,3 +12,4 @@ D:\GB\CSharp\Seminar07\obj\Debug\net8.0\refint\Seminar07.dll
 D:\GB\CSharp\Seminar07\obj\Debug\net8.0\Seminar07.pdb
 D:\GB\CSharp\Seminar07\obj\Debug\net8.0\Seminar07.genruntimeconfig.cache
 D:\GB\CSharp\Seminar07\obj\Debug\net8.0\ref\Seminar07.dll
+D:\GB\CSharp\Seminar07\obj\Debug\net8.0\Seminar07.sourcelink.json
